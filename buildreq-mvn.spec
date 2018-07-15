@@ -8,6 +8,7 @@ Group:          base
 Requires:	openjdk
 Requires:	openjdk-dev
 Requires:	/usr/bin/mvn
+Requires:	spark-dep-java
 
 %description
 Helper files 
