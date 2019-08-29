@@ -9,6 +9,7 @@ Requires:	apache-ant
 Requires:	apache-maven
 Requires:	openjdk
 Requires:	openjdk-dev
+Requires:	xmlstarlet
 
 %description
 Helper files
