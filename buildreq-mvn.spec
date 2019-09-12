@@ -7,6 +7,7 @@ Url:            https://clearlinux.org/
 Group:          base
 Requires:	apache-ant
 Requires:	apache-maven
+Requires:	mvn-plexus-classworlds
 Requires:	openjdk
 Requires:	openjdk-dev
 Requires:	xmlstarlet
